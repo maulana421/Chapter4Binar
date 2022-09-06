@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Chap4Topic4Part2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="silahkan_login">Silahkan Login</string>
+    <string name="masukkan_username_anda">Masukkan Username Anda</string>
+    <string name="masukkan_password_anda">Masukkan Password Anda</string>
+    <string name="lupa_password">Lupa Password</string>
+    <string name="register">Register</string>
+    <string name="use_to_login">use to login</string>
+    <string name="daftar">Register</string>
+    <string name="passRess">Password</string>
+    <string name="usernameReg">Username</string>
+    <string name="nama_anda">Nama Anda</string>
+    <string name="buat_akun">Buat Akun</string>
+    <string name="registerlogo">registerlogo</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="ivLogin">Login</string>
+    <string name="setelah_melakukan_registrasi_silahkan">Setelah Melakukan Registrasi, Silahkan</string>
+    <string name="contact_us">contact us</string>
+    <string name="help">help</string>
+</resources>
